@@ -3,7 +3,7 @@ import json
 import requests
 from PySide6.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QPushButton, QMessageBox
 
-CURRENT_VERSION = "1.0.0"
+CURRENT_VERSION = "0.9.0"
 
 # --- For testing, we'll use a GitHub URL OR a local file ---
 # Example version.json content:
