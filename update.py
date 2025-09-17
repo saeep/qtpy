@@ -1,7 +1,7 @@
 import requests
 from PySide6 import QtWidgets
 
-CURRENT_VERSION = "0.9.0"  # 🔹 lower than version.json so update will show
+CURRENT_VERSION = "1.1.0"  # 🔹 lower than version.json so update will show
 VERSION_URL = "https://raw.githubusercontent.com/saeep/qtpy/main/version.json"
 
 def check_for_update():
